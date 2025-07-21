@@ -1,0 +1,12 @@
+*Voltage
+*(Name Voltage sourse) (node) (node) (voltage)
+V1 1 0 10
+*Resistors
+*(Name Resistor) (node) (node) (value)
+
+R1 1 2 3k
+R2 2 0 1k
+R3 2 0 1k
+
+.op
+.end

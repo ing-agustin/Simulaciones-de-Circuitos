@@ -1,0 +1,12 @@
+*Circuito RC
+*Voltage
+V1 1 0 10
+R1 1 2 1k
+C1 2 0 100u
+
+*Analisis transitorio (paso pres) (tiempo final) (tiempo inicial) (paso calc) (UIC)
+*Usamos UIC cuando tenemos condiciones iniciales especifícas en los condensadores e inductancias y queremos usarlas.
+.tran 0 2 0 0.5 uic
+.end
+
+

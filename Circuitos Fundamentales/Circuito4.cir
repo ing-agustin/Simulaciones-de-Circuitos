@@ -1,0 +1,9 @@
+* Circuito simple con diodo
+V1 1 0 DC 5
+D1 1 2 D1N4148
+R1 2 0 1k
+.op
+*modelo del diodo
+.model D1N4148 D(IS=2.52E-9 N=1.752)
+.end
+

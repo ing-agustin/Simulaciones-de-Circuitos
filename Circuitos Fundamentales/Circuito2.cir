@@ -1,0 +1,10 @@
+*Circuito divisor de corriente
+*Voltage
+I1 1 0 10
+R1 1 0 1k
+R2 1 0 1K
+
+.op
+.end
+
+
