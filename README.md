@@ -27,7 +27,7 @@ Un archivo típico en SPICE tiene la extensión `.cir` , y contiene:
 
 ---
 
-> 🛠️ Este código está preparado para ser reutilizable y modular en sistemas que usen interrupciones para capturar eventos y almacenar información.
+> 🛠️ Este código está preparado para ser reutilizable.
 
 
 
