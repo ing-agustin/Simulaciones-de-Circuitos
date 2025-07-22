@@ -13,6 +13,24 @@ Un archivo típico en SPICE tiene la extensión `.cir` , y contiene:
 - Definición de nodos y conexiones
 - Comandos de salida (.print, .plot, .tran, etc.)
 
+
+
+# 📄 Archivos 
+
+## 🧪 Circuitos 
+
+  1. **Circuito de resistencias**
+  2. **Circuito divisor de corriente**
+  3. **Circuito RC**
+  4. **Circuito diodo**
+
+
+---
+
+> 🛠️ Este código está preparado para ser reutilizable y modular en sistemas que usen interrupciones para capturar eventos y almacenar información.
+
+
+
   ---
 
   ## 📎 Herramientas recomendadas
